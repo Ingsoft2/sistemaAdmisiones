@@ -37,7 +37,7 @@ class Colegio {
     }
     
     
-    public function lista_colegios($tabla) {
+    public function lista_colegios($tabla)    {
         
         include '../conexion.php';
         $result = mysql_query("SELECT * FROM colegio");
@@ -46,7 +46,7 @@ class Colegio {
         while ($row = mysql_fetch_row($result)) 
                 {
             echo "<tr><td>$row[0]</td><td>$row[1]</td><td>$row[2]</td><td>$row[3]</td>". "<td><a href=../colegio/procesar_colegio.php?req_col=eliminar&id=".$row[0].">Borrar</a><a href=../colegio/modificarColegio.php?req_col=modificar&id=".$row[0].
-                    "&nombre=".$row[1]."". "&estado=".$row[2]."&ciudad=".$row[3]."> Modificar</a></td></tr> \n";
+                    "&nombre=".$row[1]."". "&estado=".$row[2]."&ciudad=".$row[3]."> Modificarss</a></td></tr> \n";
            // echo "<td><a href=editar_estudiante.php?id=".$row[$campos[0]].">Editar</a></td>";
             
         }
