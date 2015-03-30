@@ -3,12 +3,9 @@
     <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
     <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
         <group>
-            <file>file:/C:/xampp/htdocs/sistemaAdmisiones/admin/aspirante/Aspirante.php</file>
-            <file>file:/C:/xampp/htdocs/sistemaAdmisiones/admin/colegio/procesar_colegio.php</file>
+            <file>file:/C:/xampp/htdocs/sistemaAdmisiones/admin/gestiones/gestionarColegio.php</file>
             <file>file:/C:/xampp/htdocs/sistemaAdmisiones/admin/colegio/Colegio.php</file>
-            <file>file:/C:/xampp/htdocs/sistemaAdmisiones/admin/colegio/modificarColegio.php</file>
-            <file>file:/C:/xampp/htdocs/sistemaAdmisiones/admin/aspirante/procesar_aspirante.php</file>
-            <file>file:/C:/xampp/htdocs/sistemaAdmisiones/admin/aspirante/modificarAspirante.php</file>
+            <file>file:/C:/xampp/htdocs/sistemaAdmisiones/admin/gestiones/Header.php</file>
         </group>
     </open-files>
 </project-private>
