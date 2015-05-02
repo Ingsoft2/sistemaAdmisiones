@@ -9,6 +9,7 @@ and open the template in the editor.
 <html>
     <head>
         <link type="text/css" rel="stylesheet" href="../../css/style.css">
+        <link type="text/css" rel="stylesheet" href="../../css/StyleColegio.css">
         <meta charset="UTF-8">
         <title>Gestionar Programa</title> <!-- titulo| -->
         

@@ -8,6 +8,7 @@ and open the template in the editor.
     <head>
         <!-- from encargado de la gestion de los aspirantes -->
         <link type="text/css" rel="stylesheet" href="../../css/style.css">
+        
         <meta charset="UTF-8">
         <title>Gestionar Aspirante</title>
         
